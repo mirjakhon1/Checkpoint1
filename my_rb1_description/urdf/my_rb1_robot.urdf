@@ -2,8 +2,8 @@
 
 <robot name="my_rb1_robot">
 
-    <!-- <gazebo reference="base_link">
-        <material>Gazebo/Blue</material>    
+    <gazebo reference="base_link">
+        <material>Gazebo/Black</material>    
     </gazebo>
 
     <gazebo reference="left_wheel">
@@ -19,7 +19,7 @@
     </gazebo>
     <gazebo reference="back_caster">
         <material>Gazebo/Blue</material>    
-    </gazebo> -->
+    </gazebo>
 
     <link name="base_link">
         <inertial>
