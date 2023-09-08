@@ -1,0 +1,12 @@
+Symlinking /home/user/catkin_ws/src/my_rb1_robot/my_rb1_description/devel/./local_setup.zsh
+Symlinking /home/user/catkin_ws/src/my_rb1_robot/my_rb1_description/devel/./cmake.lock
+Symlinking /home/user/catkin_ws/src/my_rb1_robot/my_rb1_description/devel/./setup.sh
+Symlinking /home/user/catkin_ws/src/my_rb1_robot/my_rb1_description/devel/./_setup_util.py
+Symlinking /home/user/catkin_ws/src/my_rb1_robot/my_rb1_description/devel/./setup.bash
+Symlinking /home/user/catkin_ws/src/my_rb1_robot/my_rb1_description/devel/./setup.zsh
+Symlinking /home/user/catkin_ws/src/my_rb1_robot/my_rb1_description/devel/./env.sh
+Symlinking /home/user/catkin_ws/src/my_rb1_robot/my_rb1_description/devel/./local_setup.sh
+Symlinking /home/user/catkin_ws/src/my_rb1_robot/my_rb1_description/devel/./local_setup.bash
+Symlinking /home/user/catkin_ws/src/my_rb1_robot/my_rb1_description/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/user/catkin_ws/src/my_rb1_robot/my_rb1_description/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/user/catkin_ws/src/my_rb1_robot/my_rb1_description/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
